@@ -1,2 +1,2 @@
 # Visualizador de Diff
-Veja de forma rápida diferenças entre dois códigos ou textos
+Veja diferenças entre dois códigos ou textos de forma rápida e prática
